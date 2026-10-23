@@ -11,7 +11,8 @@ An interactive history website with six story-driven journeys (52 fact-checked m
 **[▶ Live demo](https://histomotion.onrender.com)** · React · Vite · GSAP
 
 ### [Prompt2Page](https://github.com/mtahabinaamir-dev/Prompt2Page) — describe a website, get a website
-An AI website builder (co-created): type what you want in plain language and watch the site build itself live, then refine it with chat commands and export it. Node.js · Express · JavaScript
+An AI website builder (co-created): type what you want in plain language and watch the site build itself live, then refine it with chat commands and export it. 
+**[▶ Live demo]([https://prompt2page-z0vz.onrender.com])** . Node.js · Express · JavaScript
 
 ## 🛠️ Tech I Work With
 
